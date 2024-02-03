@@ -34,3 +34,4 @@ Note:
 
 This project is designed to assist job seekers in optimizing their resumes and enhancing their chances in a competitive job market.
 Ensure the environment variables are properly configured with the Gemini API key for seamless integration.
+Follow me 
